@@ -10,6 +10,8 @@
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=dznbk)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+[![AWS CLF](images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/12b1ce9b-914e-46ca-bb86-0c57fef59583/public_url)
+
 <!--
 **dznbk/dznbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
